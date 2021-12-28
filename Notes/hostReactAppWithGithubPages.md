@@ -24,6 +24,8 @@ git push -u origin master
 npm install gh-pages --save-dev
 ```
 7. Change this text to your `package.json` file:
+<br />
+
 **Original**
 ```
 "scripts": {
@@ -44,6 +46,8 @@ npm install gh-pages --save-dev
     "eject": "react-scripts eject"
 },
 ```
+<br />
+
 8. Commit all your file and push to your repo
 9. Run the following command in terminal:
 ```

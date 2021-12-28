@@ -11,5 +11,5 @@ This is a note that I made for my own use. You can use it for your own purposes.
 ```
 
 ## Credit
-`Any problem, please contact me at Discord to fix bug / error / giving suggestion.`
+`Any problem, please contact me at Discord to fix bug / error / giving suggestion.`<br />
 Discord Tag: `Rainly36#0306`
