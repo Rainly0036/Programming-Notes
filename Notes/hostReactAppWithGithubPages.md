@@ -51,7 +51,7 @@ npm run deploy
 ```
 10. Open github and go to your repo. Click on the `Settings` tab and click on the `Pages` tab.
 11. Change the source from `none` to `gh-pages`
-![Images](source.jpg)
+![Images](./Assets/source.jpg)
 12. Run the following command in terminal:
 ```
 npm run deploy
