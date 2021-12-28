@@ -44,9 +44,22 @@ npm install gh-pages --save-dev
     "eject": "react-scripts eject"
 },
 ```
-8. Run the following command in terminal:
+8. Commit all your file and push to your repo
+9. Run the following command in terminal:
 ```
 npm run deploy
 ```
-9. Open github and go to your repo. Click on the `Settings` tab and click on the `Pages` tab.
-10. 
+10. Open github and go to your repo. Click on the `Settings` tab and click on the `Pages` tab.
+11. Change the source from `none` to `gh-pages`
+![Images](source.jpg)
+12. Run the following command in terminal:
+```
+npm run deploy
+```
+
+### End 
+Now you can see your react app in this websites
+: `https://[USERNAME].github.io/[YOUR REPO NAME]`
+
+Any problem, please contact me at Discord
+Discord Tag: `Rainly36#0306`
