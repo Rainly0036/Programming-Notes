@@ -6,8 +6,8 @@ This is a note that I made for my own use. You can use it for your own purposes.
 
 ## List 
 ```
-| 1 | Host React App With Github Pages
-|   | -- Notes/hostReactAppWithGithubPages.md
+| 1 | [Host React App With Github Pages](./Notes/hostReactAppWithGithubPages.md)
+|   | 
 ```
 
 ## Credit
