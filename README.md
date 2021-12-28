@@ -5,8 +5,8 @@ All notes that make by me
 This is a note that I made for my own use. You can use it for your own purposes. All credits will be given to the original author.
 
 ## List 
-| 1 | [Host React App With Github Pages](./Notes/hostReactAppWithGithubPages.md)_
-|   | 
+| 1 | [Host React App With Github Pages](./Notes/hostReactAppWithGithubPages.md)__
+| 2 | Still Creating 
 
 
 ## Credit
