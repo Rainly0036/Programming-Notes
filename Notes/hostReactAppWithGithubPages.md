@@ -61,5 +61,5 @@ npm run deploy
 Now you can see your react app in this websites
 : `https://[USERNAME].github.io/[YOUR REPO NAME]`
 
-Any problem, please contact me at Discord
-Discord Tag: `Rainly36#0306`
+### Credits
+- [Original Video: Host React.js App for FREE in 5 mins with GitHub Pages](https://www.youtube.com/watch?v=2hM5viLMJpA)
